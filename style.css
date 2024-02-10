@@ -1,0 +1,17 @@
+body{
+color: rgb(220, 238, 253);
+background-color: rgb(218, 191, 155);
+}
+.heading{
+width:80%;
+font-size: 30px;
+}
+.items{
+color: teal ;
+font-size: 20px;
+}
+#camera,#result{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
